@@ -32,11 +32,8 @@ A ideia principal foi transformar **dados brutos** em **informações visuais cl
 ## 📈 Visual do Dashboard
 Exemplo de visualização do dashboard:  
 
-![Dashboard](./f50d9a25-0f7e-4359-b6f7-a3582b2f4658.png)
+![Dashboard](.Dashboard-de-Vendas.png)
 
 ---
 
-## 🔄 Como Reproduzir
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+
