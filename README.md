@@ -18,7 +18,8 @@ A ideia principal foi transformar **dados brutos** em **informações visuais cl
 
 ## 🗂️ Estrutura do Repositório
 - `README.md` → Explicação do projeto e instruções de uso.  
-- `Dashboard_Vendas.xlsx` → Arquivo Excel com o dashboard desenvolvido.  
+- `Dashboard_Vendas.xlsx` → Arquivo Excel com o dashboard desenvolvido.
+- `Dashboard de vendas.png` → Arquivo png com o dashboard desenvolvido.   
 
 ---
 
@@ -32,7 +33,7 @@ A ideia principal foi transformar **dados brutos** em **informações visuais cl
 ## 📈 Visual do Dashboard
 Exemplo de visualização do dashboard:  
 
-![Dashboard](.Dashboard-de-Vendas.png)
+![Dashboard]([.Dashboard-de-Vendas.png](https://github.com/jessica-re88/Dashboard-Vendas-Excel/blob/main/Dashboard%20de%20vendas.png))
 
 ---
 
