@@ -34,9 +34,6 @@ A ideia principal foi transformar **dados brutos** em **informações visuais cl
 Exemplo de visualização do dashboard:  
 
 ![Dashboard](https://github.com/jessica-re88/Dashboard-Vendas-Excel/blob/main/Dashboard%20de%20vendas.png)
-
-![Dashboard](https://github.com/jessica-re88/Dashboard-Vendas-Excel/blob/main/Dashboard%20de%20vendas%20no%20excel.mp4)
-
 ---
 
 
